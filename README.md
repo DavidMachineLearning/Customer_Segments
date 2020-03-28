@@ -1,25 +1,5 @@
-# Machine Learning Engineer Nanodegree
-
-# Project: Creating Customer Segments
-
-# Requirements
-
-Jupiter Notebook
-
-Python 3 (Tested on python 3.5.2)
-
-sklearn     0.19.1
-
-matplotlib  2.2.2
-
-numpy       1.14.5
-
-pandas      0.23.3
-
-seaborn     0.9.0
-
-
-# Project Overview
+# Creating Customer Segments 
+#### (part of Machine Learning Engineer Nanodegree)
 
 Apply unsupervised learning techniques on product spending data collected for customers of a wholesale distributor in Lisbon, Portugal to identify customer segments hidden in the data. 
 
