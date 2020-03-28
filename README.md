@@ -18,5 +18,3 @@ Finally, compare the segmentation found with an additional labeling and consider
 “customers.csv”: The project dataset.
 
 “visuals.py”: Supplementary visualizations for the project.
-
-“report.html”: Report containing data analysis, hypothesis and final conclusion.
